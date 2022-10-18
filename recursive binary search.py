@@ -1,5 +1,5 @@
 # Grokking algorithms, p. 85, exercise 4.4
-# Рекурсивная функция подсчета элементов в списке
+# Рекурсивная функция бинарного поиска
 
 def binary(list, value):
     if len(list) == 1:
