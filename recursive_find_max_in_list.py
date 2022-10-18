@@ -1,4 +1,4 @@
-# Grokking algorithms, p. 85, exercise 4.2
+# Grokking algorithms, p. 85, exercise 4.3
 # Рекурсивная функция нахождения максимального числа в списке
 
 def max(list):
