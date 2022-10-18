@@ -8,4 +8,4 @@ def count_elements(my_list):
 
 
 # test zone
-print(count_elements([1, 2, 3, 4, 5, 6]))
+print(count_elements([1, 2, 3, 4, 5, 6]))  # -> 6
